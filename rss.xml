@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Sweet Home Costa Rica Documentary]]></title>
+        <description><![CDATA[Sweet Home Costa Rica Documentary]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Wed, 23 Mar 2016 23:18:36 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[How far would you go for your beliefs?]]></title>
+            <description><![CDATA[<article><h1>How far would you go for your beliefs?</h1><p>In 1951, 36 Quaker war-resisters left Alabama in search of a life of pacifism. They found it in a Costa Rica cloud forest. </p></article>]]></description>
+            <link>undefinedhow-far-would-you-go-for-your-beliefs/index.html</link>
+            <guid isPermaLink="false">4dfb3533-924f-4910-9a7b-452302303509</guid>
+            <pubDate>Wed, 23 Mar 2016 23:18:35 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
