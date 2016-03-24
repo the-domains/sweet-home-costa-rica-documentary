@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[Sweet Home Costa Rica Documentary]]></title>
         <description><![CDATA[Sweet Home Costa Rica Documentary]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/sweet-home-costa-rica-documentary/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 23 Mar 2016 23:18:36 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Thu, 24 Mar 2016 01:02:43 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/sweet-home-costa-rica-documentary/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[How far would you go for your beliefs?]]></title>
-            <description><![CDATA[<article><h1>How far would you go for your beliefs?</h1><p>In 1951, 36 Quaker war-resisters left Alabama in search of a life of pacifism. They found it in a Costa Rica cloud forest. </p></article>]]></description>
-            <link>undefinedhow-far-would-you-go-for-your-beliefs/index.html</link>
+            <description><![CDATA[<article><h1>How far would you go for your beliefs?</h1><p>In 1951, 36 Quaker war-resisters left Alabama in search of a life of pacifism. They found it in a Costa Rican cloud forest. </p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/b927eb21-7528-4565-a630-27f7e456902b.jpg"></article>]]></description>
+            <link>https://thegrid.ai/sweet-home-costa-rica-documentary/how-far-would-you-go-for-your-beliefs/index.html</link>
             <guid isPermaLink="false">4dfb3533-924f-4910-9a7b-452302303509</guid>
-            <pubDate>Wed, 23 Mar 2016 23:18:35 GMT</pubDate>
+            <pubDate>Thu, 24 Mar 2016 01:01:53 GMT</pubDate>
         </item>
     </channel>
 </rss>
