@@ -1,6 +1,6 @@
 name: Sweet Home Costa Rica Documentary
 favicon: null
-layout_spectrum: 0.00397
+layout_spectrum: 0.50396
 typography_spectrum: 0.0607825662009418
 cta:
   domain: null
@@ -21,8 +21,8 @@ color:
     - '#555555'
     - '#9a9a9a'
     - '#c2c2c2'
-  brandStrength: 0.03451179154217243
+  brandStrength: 0.75
   lightness: 0.05392536357976496
-  saturation: 0.26931792916730046
-  rhythmicContrast: 0.811649083159864
+  saturation: 0
+  rhythmicContrast: 0.5
 purpose: []
