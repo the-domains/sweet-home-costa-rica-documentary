@@ -6,9 +6,9 @@ isBasedOnUrl: null
 inLanguage: null
 starred: false
 keywords: []
-description: "In 1951, 36 Quaker war-resisters left Alabama in search of a life of pacifism. They found it in a Costa Rica cloud forest.\_"
-datePublished: '2016-03-24T01:09:11.168Z'
-dateModified: '2016-03-24T01:09:08.468Z'
+description: "Sweet Home Costa Rica is the story of eleven Quaker families from\n                                  Alabama whose search for peace, \nreligious freedom, and a less materialistic environment in which to \nraise their children led them to a cloud forest in northwestern Costa \nRica as beautiful as it was remote. There were no roads, no schools, no \nelectricity. They named their new home Monteverde, literally Green \nMountain, and set about rebuilding their lives and putting their faith \nand pacifism into practice.Today Monteverde is home to a thriving \nFriends School (est. 1951) and several biological research institutes, \nand is considered a model for sustainable ecotourism.\_ "
+datePublished: '2016-03-24T01:10:30.722Z'
+dateModified: '2016-03-24T01:10:28.556Z'
 title: How far would you go for your beliefs?
 author: []
 sourcePath: _posts/2016-03-24-how-far-would-you-go-for-your-beliefs.md
